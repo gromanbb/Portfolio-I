@@ -1,8 +1,8 @@
-#### Portfolio-JS
+#### Portfolio-I
 Homework: Update Portfolio Page Assignment
 ---
-# Portfolio-JS
+# Portfolio-I
 
 ### Overview
 
-Enhancing my [Portfolio](https://gromanbb.github.io/Portfolio-JS/) using HTML, CSS, Media Queries and JS.
+Enhancing my [Portfolio](https://gromanbb.github.io/Portfolio-I/) using HTML, CSS, Media Queries and JS.
